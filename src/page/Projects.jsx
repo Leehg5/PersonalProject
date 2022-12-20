@@ -146,10 +146,7 @@ const Projects = () => {
               기회가 되었습니다. 이후 다른 작업시 쉽게 이해는 계기가 되었습니다.
             </div>
 
-            <a
-              href="https://github.com/Leehg5/portfolio-PersonalProject-"
-              class="coin"
-            >
+            <a href="https://github.com/Leehg5/PersonalProject" class="coin">
               <button>깃허브 이동</button>
             </a>
             <hr />
